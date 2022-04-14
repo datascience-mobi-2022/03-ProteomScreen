@@ -1,15 +1,5 @@
----
-title: "Topic 3 : Proteome-wide Screen for RNA-dependent Proteins"
-author: "Project overview and guidelines"
-output:
-  html_document: 
-    toc: yes
-    keep_md: yes
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEncoding{UTF-8}
-  %\VignetteEngine{knitr::rmarkdown}
----
+Topic 03: Proteome-wide Screen for RNA-dependent Proteins
+=========================================================
 
 Supervisor: 
 
