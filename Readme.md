@@ -1,6 +1,8 @@
 Topic 03: Proteome-wide Screen for RNA-dependent Proteins
 =========================================================
 
+[Introductory video](https://www.dropbox.com/s/ivm1q7fpf9153j3/2022_Project3_Data_Analysis.mp4?dl=0)
+
 Supervisor: 
 
 * Maïwen Caudron-Herger (m.caudron@dkfz.de)
